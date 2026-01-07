@@ -1,2 +1,5 @@
 cub3D
 build/
+.vscode/
+*.o
+mlx-test
